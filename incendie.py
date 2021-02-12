@@ -13,5 +13,9 @@ petit test
 hazar
 en même temps
 je marque un truc
+<<<<<<< HEAD
 je m'ennuies
 OK
+=======
+
+>>>>>>> 2755d4d84ee708612e48465079778629c1bb448f
