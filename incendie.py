@@ -17,13 +17,12 @@ rajout
 je marque un truc
 je m'ennuies
 OK
-GHCFG
 rajout
-
-heyyyyy
 yo je galère
 yolo
 enfin
 
 Salut lilian
 Stp 
+jai faimmmmmmmmmmmmm
+LOL
