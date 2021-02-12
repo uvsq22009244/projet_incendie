@@ -11,12 +11,9 @@
 
 petit test
 hazar
-<<<<<<< HEAD
 en même temps
-AHHHHHHHHHH
-=======
+
 
 AHHHHHHHHHH
 
 heyyyyy
->>>>>>> 62a3352b7fd54a9e280d200ae4978b9f5e12f0c1
