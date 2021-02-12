@@ -1,7 +1,7 @@
 ################################################
 #Groupe BI TD1
 #Princesse MOMO
-#Alenxadra SCHMIDT
+#Alexandra SCHMIDT
 #Malak LALAMI
 #Nolwenn CORIC
 #Lilian JOANNET
