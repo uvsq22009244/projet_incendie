@@ -12,8 +12,4 @@
 petit test
 hazar
 en même temps
-AHHHHHHHHHH
 
-AHHHHHHHHHH
-
-heyyyyy
