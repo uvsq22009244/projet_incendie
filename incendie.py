@@ -1,5 +1,5 @@
 ################################################
-#Groupe BI TD1
+#Groupe 1 BI TD1
 #Princesse MOMO
 #Alexandra SCHMIDT
 #Malak LALAMI
