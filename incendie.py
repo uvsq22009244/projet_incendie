@@ -45,3 +45,4 @@ canvas.grid(row=0)
 # liaison des événements
 
 racine.mainloop()
+
