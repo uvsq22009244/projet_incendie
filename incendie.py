@@ -1,7 +1,7 @@
 ################################################
 
 # Groupe 1 BI TD1
-# Princesse MOMO
+# Princesse MOMO 
 # Alexandra SCHMIDT
 # Malak LALAMI
 # Nolwenn CORIC
@@ -19,7 +19,6 @@ import random
 # constantes
 HAUTEUR = 400
 LARGEUR = 400
-
 
 COULEUR_FOND = "grey50"
 COTE = 100
